@@ -1,5 +1,5 @@
 # zomato
-In this project, I am analyzing data of zomato registered restaurants and I will predict the Aggregate rating of the restaurants with the help of logistic regression algorithm of machine learning and will calculate accuracy, recall, precision and F1 score.
+In this project, I am analyzing data of zomato registered restaurants and will predict the Aggregate rating of the restaurants with the help of logistic regression algorithm of machine learning and will calculate accuracy, recall, precision and F1 score.
  precision    recall  f1-score   support
 
            0       0.90      0.94      0.92       613
